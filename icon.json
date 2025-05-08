@@ -1,7 +1,8 @@
 {
   "name":"一些图标", 
   "icons":[    
-    {"name":"birdbar", "url":"https:\/\/raw.githubusercontent.com\/DHCAhead\/embyicon\/refs\/heads\/main\/%E5%9B%BE%E6%A0%87\/BirdBar.jpg"},
-    {"name":"cork", "url":"https:\/\/github.com\/DHCAhead\/embyicon\/blob\/main\/%E5%9B%BE%E6%A0%87\/Cork.jpg?raw=true"}
+    {"name":"nezha", "url":"https:\/\/raw.githubusercontent.com\/Elax-391\/EmbyIcon\/refs\/heads\/main\/nezha.jpg"},
+    {"name":"MEOFLY", "url":"https:\/\/raw.githubusercontent.com\/Elax-391\/EmbyIcon\/refs\/heads\/main\/MEOFLY.jpg"},
+    {"name":"cinetrail", "url":"https:\/\/raw.githubusercontent.com\/Elax-391\/EmbyIcon\/refs\/heads\/main\/cinetrail.jpg"}
  ]
 }
